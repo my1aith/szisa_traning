@@ -35,7 +35,9 @@ img{
     padding-top:10px;
 }
 .num{
-    border:hidden;
+    border-width:0 0 1px 0;
+    width:230px;
+	border-style:dotted;
     margin-top:20px;
     margin-bottom:5px;
     text-align:center;
